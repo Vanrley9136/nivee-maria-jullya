@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00a07b39.css",
+    "main.js": "/static/js/main.48e9d5cd.js",
+    "static/media/fundo.webp": "/static/media/fundo.1df2ed88f4dd23494da3.webp",
+    "static/media/MARIA.jpeg": "/static/media/MARIA.d04c8d38ddf64ce8bfd6.jpeg",
+    "index.html": "/index.html",
+    "main.00a07b39.css.map": "/static/css/main.00a07b39.css.map",
+    "main.48e9d5cd.js.map": "/static/js/main.48e9d5cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a07b39.css",
+    "static/js/main.48e9d5cd.js"
+  ]
+}
